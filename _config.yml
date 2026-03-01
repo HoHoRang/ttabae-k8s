@@ -1,4 +1,5 @@
-theme: primer
-title: "hohorang 홈"
+theme: minima
+title: "hohorang - ttabae-k8s"
 url: "https://hohorang.github.io"
 baseurl: "/ttabae-k8s"
+description: "따라하면서 배우는 쿠버네티스 강의 정리입니다."
