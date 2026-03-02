@@ -5,3 +5,4 @@
 - [5-1-1. 쿠버네티스 Pod - Container 정리와 Single / Multi Container Pod 생성](5-1-1.md)
 - [5-1-2. 쿠버네티스 Pod - Pod 동작 flow](5-1-2.md)
 - [5-2. 쿠버네티스 Pod - livenessProbe를 이용해서 Self-healing Pod 만들기](5-2.md)
+- [5-3. 쿠버네티스 Pod - init container & infra container](5-3.md)
