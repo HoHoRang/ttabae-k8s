@@ -9,3 +9,4 @@
 - [5-5. 쿠버네티스 Pod - static Pod(feat. kubelet daemon)](5-5.md)
 - [5-6. 쿠버네티스 Pod - Assigning Resources to Pods)](5-6.md)
 - [5-7. 쿠버네티스 Pod - Pod 환경변수 설정과 실행 패턴](5-7.md)
+- [6-1. Controller - ReplicationController란?](6-1.md)
